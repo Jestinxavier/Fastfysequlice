@@ -1,0 +1,2 @@
+# Fastfysequlice
+mysql get method
